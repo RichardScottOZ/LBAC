@@ -2,9 +2,20 @@
 
 A Diplomacy, Trading and Conflict Resource Management Game
 
+[![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## 🎮 Quick Links
+
+- **[Quick Start Guide](QUICKSTART.md)** - Get playing in 5 minutes
+- **[Gameplay Example](GAMEPLAY_EXAMPLE.md)** - See a full playthrough
+- **[Run Demo](demo.py)** - Watch the game in action
+
 ## Overview
 
 Experience the tumultuous period of the Late Bronze Age Collapse (circa 1200 BC) in this strategic game inspired by King of Dragon Pass. Lead one of the great civilizations of the ancient world through unprecedented crisis, navigating diplomacy, trade, and conflict to ensure your people's survival.
+
+**🎯 Quick Start:** `python3 lbac_game.py`
 
 ## Historical Background
 
