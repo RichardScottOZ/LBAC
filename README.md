@@ -4,12 +4,14 @@ A Diplomacy, Trading and Conflict Resource Management Game
 
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RichardScottOZ/LBAC/HEAD?filepath=LBAC.ipynb)
 
 ## 🎮 Quick Links
 
 - **[Quick Start Guide](QUICKSTART.md)** - Get playing in 5 minutes
 - **[Gameplay Example](GAMEPLAY_EXAMPLE.md)** - See a full playthrough
 - **[Run Demo](demo.py)** - Watch the game in action
+- **[Play in Browser](https://mybinder.org/v2/gh/RichardScottOZ/LBAC/HEAD?filepath=LBAC.ipynb)** - Launch via Binder (no install needed)
 
 ## Overview
 
